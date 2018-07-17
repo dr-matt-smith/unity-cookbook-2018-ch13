@@ -5,3 +5,5 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-01-play-video
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-02-script-play-video
+
